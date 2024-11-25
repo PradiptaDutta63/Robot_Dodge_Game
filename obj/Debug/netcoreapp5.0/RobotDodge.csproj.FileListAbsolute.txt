@@ -1,0 +1,16 @@
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.exe
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.deps.json
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.runtimeconfig.json
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.runtimeconfig.dev.json
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.dll
+C:\Users\wwwdu\Documents\Code\RobotDodge\bin\Debug\netcoreapp5.0\RobotDodge.pdb
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.csproj.AssemblyReference.cache
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.AssemblyInfoInputs.cache
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.AssemblyInfo.cs
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.csproj.CoreCompileInputs.cache
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.dll
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\refint\RobotDodge.dll
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.pdb
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\RobotDodge.genruntimeconfig.cache
+C:\Users\wwwdu\Documents\Code\RobotDodge\obj\Debug\netcoreapp5.0\ref\RobotDodge.dll

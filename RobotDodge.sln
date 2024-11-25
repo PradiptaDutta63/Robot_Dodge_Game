@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotDodge", "RobotDodge.csproj", "{B8C01677-BCF8-452A-8BE7-E06ED418E421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C01677-BCF8-452A-8BE7-E06ED418E421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C01677-BCF8-452A-8BE7-E06ED418E421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C01677-BCF8-452A-8BE7-E06ED418E421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C01677-BCF8-452A-8BE7-E06ED418E421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14D73AE-37DA-4A60-8797-64778442FA27}
+	EndGlobalSection
+EndGlobal
